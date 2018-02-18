@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":8,"title":"","author":"","fileName":"Where are the Gandhians.pdf","bounds":[[935,1210],[935,1210],[935,1210],[935,1210],[935,1210],[935,1210],[935,1210],[935,1210]],"bookmarks":[{"title":"1 ","page":2,"zoom":"XYZ 129 1123 null"}],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
